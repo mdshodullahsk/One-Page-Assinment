@@ -1,0 +1,110 @@
+html {
+    margin: 0%;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0%;
+    padding: 0%;
+}
+
+#sec-one {
+   
+    background-size: cover;
+    background-image: url(/image/cover-photo_1_1920x1080.jpg) ;
+    background-repeat: no-repeat;
+    background-position: 0%;
+    text-align: center;
+    text-justify: auto;
+
+}
+#sec-one {
+    background-color: black;
+}
+
+#sec-one p {
+    font-size: 20px;
+}
+#heading-one {
+    padding-top: 150px;
+    display: inline-block;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+    
+}
+.btn {
+    display: inline-block;
+    margin-bottom: 150px;
+    text-decoration: none;
+    background-color: rgb(189, 76, 76);
+    padding: 10px 15px;
+    font-size: 20px;
+    color: black;
+    border-radius: 10px;
+}
+#sec-one h1 {
+    font-size: 50px;
+    margin-left: 0px;
+}
+#heading-two {
+    margin-top: 0%;
+}
+/* section two */
+#sec-two {
+    text-align: center;
+}
+#sec-two p {
+    margin-bottom: 40px;
+}
+.sp {
+    background-color: rgb(226, 213, 213);
+    display: inline;
+    padding: 20px;
+}
+#src {
+    
+    display: flex;
+    margin-left: 43.5%;
+    margin-top: 50px;
+    margin-bottom: 20px;
+
+}
+
+/* section four */
+#sec-four {
+    margin-top: 40px;
+    padding-left: 70px;
+    padding-right: 70px;
+    display: flex;
+}
+.half {
+    width: 50%;
+}
+.half img {
+    width: 100%;
+}
+.btn-two {
+    text-decoration: none;
+    background-color: rgb(189, 76, 76);
+    padding: 10px 15px;
+    font-size: 20px;
+    color: black;
+    border-radius: 10px;
+}
+#sec-four p {
+margin-bottom: 40px;
+}
+#half-contain {
+    margin-right: 40px;
+}
+/* section five */
+
+
+/* footer section */
+footer {
+    text-align: center;
+    color: white;
+    background-color: rgb(51, 44, 44);
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
